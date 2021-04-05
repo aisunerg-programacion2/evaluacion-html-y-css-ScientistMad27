@@ -1,0 +1,34 @@
+.calculadora{display:block; margin:auto; padding:20px;background-color:#2980b9; width:350px;height:500px; border-radius: 25px;}
+.calculadora td button{display:block; width:70px; height: 70px; font-size: 25px;}
+#resultado{
+  display:block;text-align: center;font-size: 40px; margin-bottom: 50px; width:300px; height: 100px; 
+  line-height: 100px; background-color:#fff; border-radius: 25px; overflow-y: scroll;}
+
+
+  
+/*#creditos {display:block;padding-top:20px; color:#fff; text-align: center;width:300px;}
+  /*body {
+  font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+}
+.contenedor{ background-color: silver; margin: auto; }
+
+.calculadora {display: -ms-inline-flexbox ;margin: auto ; padding: 20px;background-color: rgb(86, 139, 160);width: 400px; height: 500px; border-radius: 50px;}
+.calculadora td button { display: inline-flexbox; width: 65px;height: 65px;font-size: 65px;}
+
+#creditos{display: inline ;padding-top: 20px; color: rgb(18, 20, 20);text-align: end;width: 300px;}
+
+#resultados{display: inline-block;text-align: 50px center;font-size: 50px;margin-bottom: 50px;width: 300px;height: 100px;line-height: 100;
+            background-color:rgb(31, 25, 31);border-radius:30px;overflow-y: hidden;}
+
+form { margin: 0 auto; width: 400px; padding: 1em; border: 1px solid #CCC; border-radius: 1em;}
+  ul {list-style: none;padding: 0;margin: 0;}
+  form li + li {margin-top: 1em;}
+  label {display: inline-block;width: 20x;text-align: right;}
+  input,
+  textarea {font: 1em sans-serif;width: 200px; box-sizing: border-box;border: 1px solid #999;}
+  input:focus,
+  textarea:focus { border-color: #000;}
+  textarea {vertical-align: top;height: 5em;}
+  button {margin-left: .5em;border-color: m;}
+
+    
